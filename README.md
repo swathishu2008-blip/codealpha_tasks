@@ -7,7 +7,7 @@ SWATHI M
 Research Report on Robotics Applications:
 Robotics in Autonomous Vehicles and Drones
 
-### Task 2
+### Task 3
 Smart Home Lighting System
 
 #### Included Files:
